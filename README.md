@@ -1,21 +1,27 @@
-<h1 align="center">Hi there, I'm Kaa278 👋</h1>
+<h1 align="center">Hi there, I'm Kaa278</h1>
 
 <p align="center">
-  <i>Welcome to my GitHub profile!</i>
+  <i>Welcome to my GitHub profile</i>
 </p>
 
-<h3 align="center">🏆 Achievements</h3>
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaa278&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaa278&theme=github_dark" />
 </p>
 
-### 📊 Languages Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaa278&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Kaa278&theme=dark&hide_border=true" />
 </p>
 
-### 🛠️ Tech Stack
+### Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaa278&theme=github_dark" />
+</p>
+
+### Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -37,7 +43,8 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaa278&theme=github-dark&hide_border=true" />
 </p>
