@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<img src="https://github.com/lowlighter/metrics/raw/master/examples/metrics.plugin.achievements.compact.svg" alt="Achievements"></img>
+<img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.achievements.compact.svg" alt="Achievements"></img>
 <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaa278&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph"  />
@@ -63,7 +63,5 @@
 
 ---
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Kaa278&icon=0&color=1" alt="Views">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Kaa278&color=blue&style=flat-square" alt="Views">
 </div>
