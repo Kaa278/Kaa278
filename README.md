@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<img src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.achievements.compact.svg" alt="Achievements"></img>
+<img src="https://raw.githubusercontent.com/Kaa278/Kaa278/output/metrics.plugin.achievements.compact.svg" alt="Achievements"></img>
 <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaa278&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph"  />
